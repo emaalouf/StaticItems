@@ -111,5 +111,9 @@ return [
             'deleted_at_helper'  => ' ',
         ],
     ],
+    'walkthroughMenu' => [
+        'title'          => 'Walkthrough Menu',
+        'title_singular' => 'Walkthrough Menu',
+    ],
 
 ];
