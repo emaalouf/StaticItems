@@ -120,6 +120,10 @@ class PermissionsTableSeeder extends Seeder
             ],
             [
                 'id'    => 28,
+                'title' => 'walkthrough_menu_access',
+            ],
+            [
+                'id'    => 29,
                 'title' => 'profile_password_edit',
             ],
         ];
